@@ -230,6 +230,7 @@ won't match) and therefore will fail verification an return a non-zero value:
 echo $?
 # should output 1
 ```
+hello
 
 
 ### Wrapping up
